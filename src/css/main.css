@@ -1,0 +1,40 @@
+.head {
+
+    width: 100vw;
+    height: 10vh;
+    font-size: xxx-large;
+    font-family: monospace;
+    text-align: center;
+
+}
+
+.center {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.CORE {
+
+    width: 100vw;
+    height: 80vh;
+
+
+}
+
+.FOOT {
+
+    width: 100vw;
+    height: 10vh;
+    padding-top: 3vh;
+
+}
+
+body {
+
+    overflow: hidden
+;
+
+}
