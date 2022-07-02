@@ -1,1 +1,1 @@
-[TEST TUTAJ!](https://gausselimit.herokuapp.com/).
+[TEST TUTAJ!](https://gausselimit.herokuapp.com/)
