@@ -1,1 +1,1 @@
-[TEST TUTAJ!](https://git.heroku.com/gausselimit.git).
+[TEST TUTAJ!](https://gausselimit.herokuapp.com/).
